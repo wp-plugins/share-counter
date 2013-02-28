@@ -13,7 +13,7 @@
   Stable tag: 0.1
   Version: 0.1
   License: GPLv2 or later
-  Description: Share Counter plugin displays a counter with the total shares from multiple social networks for your website.
+  Description: Share Counter plugin displays a counter with the total shares from multiple social networks for the current page of your website using the sharedcount.com API.
 
   Copyright 2012 Konstantinos Kouratoras (kouratoras@gmail.com)
 
