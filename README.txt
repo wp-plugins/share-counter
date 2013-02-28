@@ -34,8 +34,8 @@ In the Widgets page you will see the "Share Counter" widget.
 
 == Screenshots ==
 
-1. The "Share Counter" widget in the Widgets page
-2. Share Counter in action!
+1. The Share Counter widget in the Widgets page
+2. Share Counter in action
 
 == Changelog ==
 
