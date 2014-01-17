@@ -6,10 +6,10 @@ Author: Konstantinos Kouratoras
 Contributors: kouratoras
 Donate link: 
 Tags: share, counter, twitter, facebook, googleplus, pinterest, linkedin, digg, reddit, stumbleupon, delicious, sharedcount
-Requires at least: 2.9.0
-Tested up to: 3.5.1
-Stable tag: 0.1
-Version: 0.1
+Requires at least: 3.2
+Tested up to: 3.8
+Stable tag: 0.2
+Version: 0.2
 License: GPLv2 or later
 
 Share Counter plugin displays a counter with the total shares from multiple social networks for the current page of your website using the sharedcount.com API.
@@ -39,7 +39,10 @@ In the Widgets page you will see the "Share Counter" widget.
 
 == Changelog ==
 
-= 1.0 = 
+= 0.2 = 
+* Bug fixes
+
+= 0.1 = 
 * Initial Release
 
 == Upgrade Notice ==

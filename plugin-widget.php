@@ -23,10 +23,12 @@ class ShareCounterWidget extends WP_Widget {
 	 */
 	public function widget($args, $instance) {
 
+		$sc_post_id = get_the_ID();
+		
 		extract($args, EXTR_SKIP);
 		$content = get_the_content();
 
-		$url = get_permalink($post_id);
+		$url = get_permalink($sc_post_id);
 		$json = file_get_contents("http://api.sharedcount.com/?url=" . rawurlencode($url));
 		$counts = json_decode($json, true);
 
